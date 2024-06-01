@@ -1,6 +1,6 @@
 ## Intro
 <strong>Name : Ahn Hyogyu</strong><br>
-<strong>Department : INHA Artificial Intelligence</strong><sub><i> 2024.03 ~</i></sub>
+<strong>Department : INHA Artificial Intelligence</strong><sub><i> (2024.03 ~ )</i></sub>
 
 <div align="center" style="margin-bottom:200px">
   <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=HyogyuAhn&show_icons=true&theme=tokyonight" />
