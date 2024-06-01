@@ -1,4 +1,6 @@
-## Ahn Hyogyu
+## Intro
+<strong>Name : Ahn Hyogyu</strong>
+<strong>Department : INHA Artificial Intelligence</strong><sub><i>2024.03 ~</i></sub>
 
 <div align="center" style="margin-bottom:200px">
   <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=HyogyuAhn&show_icons=true&theme=tokyonight" />
@@ -50,6 +52,7 @@
 
 <br>
 
+## Club & Contest
 |소속|직책|기간|
 |---|---|---|
 |INCOM|`일반` `부원`|2024.03~|
