@@ -1,6 +1,6 @@
 ## Intro
 <strong>Name : Ahn Hyogyu</strong><br>
-<strong>Education : INHA Artificial Intelligence</strong><sub><i> (2024.03 ~ )</i></sub>
+<strong>Major : INHA Artificial Intelligence</strong><sub><i> (2024.03 ~ )</i></sub>
 
 <br>
 
