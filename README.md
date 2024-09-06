@@ -48,5 +48,5 @@
 ## Certificate
 |자격증|취득 날짜|진행상황|
 |:---:|:---:|:---:|
-|SQLD|X|Waiting for grading|
+|SQLD|2024.09.06|Acquired|
 |리눅스마스터 2급|X|Before starting|
