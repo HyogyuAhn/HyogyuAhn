@@ -30,23 +30,24 @@
 
 <br>
 
-## Club
+## Extracurricular Activities
 |소속|직책|기간|비고|
 |:---:|:---:|:---:|:---:|
 |INCOM|`동아리 부원`|2024.03 ~ ||
+|GDG Campus|`동아리 부원`|2024.09 ~||
 
 <br>
 
-## Contest
 |대회명|팀|직책|기간|비고|
 |:---:|:---:|:---:|:---:|:---:|
 |Growthon|Team Nerd|`개발 총괄` `프론트` `백엔드` `데이터관리`|2024.05 ~ 2024.06|최우수상|
-|인컴톤|Team Nerd|`백엔드` `데이터관리`|2024.09 ~ ||
+|INCOMthon|Team Nerd|`백엔드` `데이터관리`|2024.09 ~ ||
 
 <br>
 
 ## Certificate
 |자격증|취득 날짜|진행상황|
 |:---:|:---:|:---:|
-|SQLD|2024.09.06|Acquired|
-|리눅스마스터 2급|X|Before starting|
+|SQL Developer|2024.09.06|Acquired|
+|리눅스마스터 2급|X|In progress|
+|네트워크관리사 2급|X|Before starting|
