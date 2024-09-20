@@ -52,6 +52,6 @@
 ## Certificate
 |자격증|취득 날짜|진행상황|
 |:---:|:---:|:---:|
-|SQL Developer|2024.09.06|Acquired|
+|SQL Developer|2024.09.20|Acquired|
 |리눅스마스터 2급|X|In progress|
 |네트워크관리사 2급|X|Before starting|
