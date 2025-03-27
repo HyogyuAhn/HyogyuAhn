@@ -33,7 +33,7 @@
 
 <br>
 
-## Extracurricular Activities
+## Experience
 |소속|직책|기간|비고|
 |:---:|:---:|:---:|:---:|
 |INCOM|`동아리 부원` `학술 부장`|2024.03 ~ |25년도 운영진|
