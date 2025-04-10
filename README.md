@@ -8,9 +8,13 @@
 <div align="center" style="margin-bottom:200px">
   <img width=40% align="center" src="https://banner.codetree.ai/v1/banner/hyogyu4981" />
 </div>
+-->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qgasdg&layout=compact&theme=codeSTACKr" alt=""/>
+</div>
 
 <br>
--->
 
 <h3 align="center">🌟 Tech Stack 🌟</h3>
 <div align="center">
