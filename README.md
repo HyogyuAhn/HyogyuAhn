@@ -56,7 +56,7 @@
 |Growthon|Team Nerd|`개발 총괄` `프론트` `백엔드` `데이터관리`|2024.05 ~ 2024.06|최우수상|
 |INCOMthon|Team Nerd|`데이터베이스 관리`|2024.09 ~ 2024.10|아이디어톤 수상|
 |지적재산 경진대회|특허냠냠|`정량 조사` `청구항 내용 분석`|2024.11 ~ 2024.12|대상|
-|NET-ZER 해커톤||`BE` `DB Manage`|2025.06.26 ~ 27|Before|
+|NET-ZERO 해커톤||`BE` `DB Manage`|2025.06.26 ~ 27|Before|
 |INHA AI Challenge||`ML`|2025.06 ~ 2025.07|Before|
 
 <br>
