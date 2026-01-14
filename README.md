@@ -1,9 +1,7 @@
-# I'm Hyogyu AHN
+# I'm Hyogyu Ahn
 
 ### 🎓 **Student @ INHA University, Artificial Intelligence**
 *(2024.03 ~ Present)*
-
-<br>
 
 ## 🛠️ Stack
 
@@ -84,7 +82,7 @@
 
 <br>
 
-### 🤝 Club & Community Leadership
+### 🤝 Club & Community
 <details>
 <summary><strong>인공지능학회 SINSA 운영진</strong> (2026.03 ~ )</summary>
 <ul>
