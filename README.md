@@ -50,7 +50,7 @@
 <ul>
   <li><strong>직책:</strong> 기획팀</li>
   <li>2026학년도 신입생 새내기배움터 기획 참여</li>
-  <li>인공지능공학과 오리엔테이션 준비</li>
+  <li>인공지능공학과 레크레이션 준비</li>
 </ul>
 </details>
 
@@ -66,7 +66,7 @@
 <details>
 <summary><strong>인공지능공학과 학생회 학술부</strong> (2025.01 ~ 2025.05)</summary>
 <ul>
-  <li><strong>직책:</strong> 학술부</li>
+  <li><strong>직책:</strong> 학술부원</li>
   <li>논문 스터디</li>
 </ul>
 </details>
@@ -74,7 +74,7 @@
 <details>
 <summary><strong>인공지능공학과 학생회 홍보부</strong> (2024.09 ~ 2024.12)</summary>
 <ul>
-  <li><strong>직책:</strong> 홍보부</li>
+  <li><strong>직책:</strong> 홍보부원</li>
   <li>학과 카드뉴스 콘텐츠 제작</li>
   <li>종강총회 및 오리엔테이션 자료 제작</li>
 </ul>
