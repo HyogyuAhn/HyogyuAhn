@@ -5,12 +5,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HyogyuAhn&layout=compact&theme=transparent&hide_border=true&langs_count=8" alt="Top Langs"/>
-</div>
-
-<br>
-
 ## 🛠️ Stack
 
 ### 💻 Languages
