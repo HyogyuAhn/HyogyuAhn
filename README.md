@@ -40,8 +40,9 @@
 <details>
 <summary><strong>인하대학교 총학생회 기획조정실</strong> (2026.01 ~ Present)</summary>
 <ul>
-  <li><strong>직책:</strong> 기획조정실 대외협력 1담당관</li>
-  <li>업무 사항 대외비</li>
+  <li><strong>직책:</strong> 기획조정실 대외협력 담당관</li>
+  <li>총학생회 홈페이지 제작 및 리팩토링</li>
+  <li>이 외 업무 대외비</li>
 </ul>
 </details>
 
