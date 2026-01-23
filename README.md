@@ -1,23 +1,11 @@
-## Poster & Paper
+# I'm Hyogyu Ahn
 
-- **Poster (PDF)**: [PatchMoE-GC_Poster.pdf](https://github.com/HyogyuAhn/PatchMoE-GC/blob/main/%5BKSBI%5D_BIOINFO-2025/PatchMoE-GC_Poster.pdf)
-- **Paper (PDF)**: [PatchMoE-GC_Paper.pdf](https://github.com/HyogyuAhn/PatchMoE-GC/blob/main/%5BKSBI%5D_BIOINFO-2025/PatchMoE-GC_Paper.pdf)
-
----
-
-<details>
-<summary><strong>👤 About the Author (Hyogyu Ahn)</strong></summary>
-
-<br>
-
-### 👋 I'm Hyogyu Ahn
-
-#### 🎓 Student @ INHA University, Artificial Intelligence
+### 🎓 **Student @ INHA University, Artificial Intelligence**
 *(2024.03 ~ Present)*
 
-#### 🛠️ Stack
+## 🛠️ Stack
 
-##### 💻 Languages
+### 💻 Languages
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -27,14 +15,14 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </div>
 
-##### 🧠 AI & Data Science
+### 🧠 AI & Data Science
 <div align="left">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
 </div>
 
-##### 🌐 Web & Backend & Database
+### 🌐 Web & Backend & Database
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -46,9 +34,9 @@
 
 <br>
 
-#### 🚀 Experience
+## 🚀 Experience
 
-##### 🏛️ Student Organization
+### 🏛️ Student Organization
 <details>
 <summary><strong>인하대학교 총학생회 기획조정실</strong> (2026.01 ~ Present)</summary>
 <ul>
@@ -95,7 +83,7 @@
 
 <br>
 
-##### 🤝 Club & Community
+### 🤝 Club & Community
 <details>
 <summary><strong>인공지능학회 SINSA 운영진</strong> (2026.03 ~ )</summary>
 <ul>
@@ -124,7 +112,7 @@
 
 <br>
 
-#### 🔬 Research Experience
+## 🔬 Research Experience
 <details>
 <summary><strong>인공지능 생명정보 연구실 (BioInCode Lab)</strong> (2025.02 ~ Present)</summary>
 <ul>
@@ -143,9 +131,9 @@
 
 <br>
 
-#### 📝 Publications & Posters
+## 📝 Publications & Posters
 <details>
-<summary><strong>[Poster](https://github.com/HyogyuAhn/PatchMoE-GC) PatchMoE-GC: Improving Gastric Tumour Microenvironment Classification with a Meta-Expert Routing Head</strong> (2025.10.16)</summary>
+<summary><strong>[Poster] PatchMoE-GC: Improving Gastric Tumour Microenvironment Classification with a Meta-Expert Routing Head</strong> (2025.10.16)</summary>
 <ul>
   <li><strong>Conference:</strong> KSBI BIOINFO 2025 (한국생명정보학회)</li>
   <li><strong>Role:</strong> First Author (1저자)</li>
@@ -155,7 +143,7 @@
 
 <br>
 
-#### 🏆 Projects & Awards
+## 🏆 Projects & Awards
 
 | 프로젝트명 | 팀 / 역할 | 기간 | 성과/비고 |
 |:---:|:---:|:---:|:---:|
@@ -166,11 +154,8 @@
 
 <br>
 
-#### 📜 Certificates
-
+## 📜 Certificates
 | 자격증 | 취득일 | 발급기관 |
 |:---:|:---:|:---:|
 | **SQL Developer** | 2024.09.20 | 한국데이터산업진흥원 |
 | **정보처리산업기사** | ongoing | - |
-
-</details>
