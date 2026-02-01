@@ -100,9 +100,16 @@
 
 ### 🤝 Club & Community
 <details>
-<summary><strong>인공지능학회 SINSA 운영진</strong> (2026.03 ~ )</summary>
+<summary><strong>탄소중립 Academy</strong> (2026.03 ~ )</summary>
 <ul>
-  <li><strong>직책:</strong> 학술부 운영진</li>
+  <li>참여 예정 (확정 X)</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>인공지능학회 SINSA 운영진</strong> (2026.01 ~ )</summary>
+<ul>
+  <li><strong>직책:</strong> 기술학술부 운영진</li>
   <li>예정 (확정 X)</li>
 </ul>
 </details>
@@ -162,6 +169,7 @@
 
 | 프로젝트명 | 팀 / 역할 | 기간 | 성과/비고 |
 |:---:|:---:|:---:|:---:|
+| **탄소중립 Academy**| - | 2026.03 ~ | - |
 | **MS NET-ZERO 해커톤** | 인사 / BE, DB | 2025.06 | - |
 | **지적재산 경진대회** | 특허냠냠 / 정량 조사, 청구항 분석 | 2024.11 ~ 2024.12 | **대상** 🥇 |
 | **INCOMthon** | Team Nerd / DB | 2024.09 ~ 2024.10 | 아이디어톤 수상 |
