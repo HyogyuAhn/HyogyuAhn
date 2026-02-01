@@ -110,7 +110,7 @@
 <summary><strong>인공지능학회 SINSA 운영진</strong> (2026.01 ~ )</summary>
 <ul>
   <li><strong>직책:</strong> 기술학술부 운영진</li>
-  <li>예정 (확정 X)</li>
+  <li>추가 예정</li>
 </ul>
 </details>
 
