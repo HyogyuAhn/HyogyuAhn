@@ -102,13 +102,6 @@
 
 ### 🤝 Club & Community
 <details>
-<summary><strong>탄소중립 Academy</strong> (2026.03 ~ )</summary>
-<ul>
-  <li>참여 예정 (확정 X)</li>
-</ul>
-</details>
-
-<details>
 <summary><strong>인공지능학회 SINSA 운영진</strong> (2026.01 ~ )</summary>
 <ul>
   <li><strong>직책:</strong> 기술학술부 운영진</li>
