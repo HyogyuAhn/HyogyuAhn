@@ -158,13 +158,30 @@
 </ul>
 </details>
 
+<details>
+<summary><strong>[Paper] KCC 2026 (In Preparation)</strong> (2026.03 ~ Present)</summary>
+<ul>
+  <li><strong>Conference:</strong> KCC 2026 (한국정보과학회)</li>
+  <li><strong>Role:</strong> First Author (1저자)</li>
+  <li><strong>Description:</strong> Research in progress on designing a mixture-of-experts (MoE) model with a meta-expert head for histopathology image classification</li>
+</ul>
+</details>
+
+<details>
+<summary><strong>[Paper] Journal Submission (In Preparation)</strong> (2026.01 ~ Present)</summary>
+<ul>
+  <li><strong>Journal:</strong> Under review preparation (target journal under consideration)</li>
+  <li><strong>Role:</strong> First Author (1저자)</li>
+  <li><strong>Description:</strong> Developing a confidence-gated MoE framework with flip-based correction to mitigate false positives (notably TUM) via selective top-1 to top-2 prediction switching in histopathology classification</li>
+</ul>
+</details>
+
 <br>
 
 ## 🏆 Projects & Awards
 
 | 프로젝트명 | 팀 / 역할 | 기간 | 성과/비고 |
 |:---:|:---:|:---:|:---:|
-| **탄소중립 Academy**| - | 2026.03 ~ | - |
 | **MS NET-ZERO 해커톤** | 인사 / BE, DB | 2025.06 | - |
 | **지적재산 경진대회** | 특허냠냠 / 정량 조사, 청구항 분석 | 2024.11 ~ 2024.12 | **대상** 🥇 |
 | **INCOMthon** | Team Nerd / DB | 2024.09 ~ 2024.10 | 아이디어톤 수상 |
