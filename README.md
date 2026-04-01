@@ -53,13 +53,19 @@
 
 ### 🏛️ Student Organization
 <details>
-<summary><strong>인하대학교 총학생회 기획조정실</strong> (2026.01 ~ Present)</summary>
+<summary><strong>(예정) 제3대 소프트웨어융합대학 학생회</strong> (2026.)</summary>
+<ul>
+  <li><strong>직책:</strong> </li>
+</ul>
+</details>
+
+<details>
+<summary><strong>제45대 인하대학교 총학생회 기획조정실</strong> (2026.01 ~ 2026.04)</summary>
 <ul>
   <li><strong>직책:</strong> 기획조정실 대외협력 담당관</li>
   <li>총학생회 공식 홈페이지 관리</li>
   <li>내부 데이터 관리 홈페이지 제작 및 관리</li>
-  <li>기타 공개 민원 및 불편 사항 처리</li>
-  <li>이 외 업무 대외비</li>
+  <li>공개 민원 및 불편 사항 처리</li>
 </ul>
 </details>
 
@@ -73,7 +79,7 @@
 </details>
 
 <details>
-<summary><strong>소프트웨어융합대학 학생회 대외협력국</strong> (2025.05 ~ 2025.12)</summary>
+<summary><strong>제2대 소프트웨어융합대학 학생회 대외협력국</strong> (2025.05 ~ 2025.12)</summary>
 <ul>
   <li><strong>직책:</strong> 대외협력국장</li>
   <li>단과대 제휴 사업 관리</li>
@@ -102,10 +108,11 @@
 
 ### 🤝 Club & Community
 <details>
-<summary><strong>인공지능학회 SINSA 운영진</strong> (2026.01 ~ )</summary>
+<summary><strong>인공지능학회 SINSA</strong> (2026.01 ~ )</summary>
 <ul>
   <li><strong>직책:</strong> 기술학술부 운영진</li>
-  <li>추가 예정</li>
+  <li>자동화 시스템 제작</li>
+  <li>기록물 관리</li>
 </ul>
 </details>
 
