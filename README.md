@@ -52,17 +52,15 @@
 ## 🚀 Experience
 
 ### 🏛️ Student Organization
-<!--
 <details>
-<summary><strong>(예정) 제3대 소프트웨어융합대학 학생회</strong> (2026.)</summary>
+<summary><strong>(예정) 제3대 소프트웨어융합대학 학생회</strong> (2026.04)</summary>
 <ul>
   <li><strong>직책:</strong> </li>
 </ul>
 </details>
--->
 
 <details>
-<summary><strong>제45대 인하대학교 총학생회 기획조정실</strong> (2026.01 ~ Present)</summary>
+<summary><strong>제45대 인하대학교 총학생회 기획조정실</strong> (2026.01 ~ 2026.03)</summary>
 <ul>
   <li><strong>직책:</strong> 기획조정실 대외협력 담당관</li>
   <li>총학생회 공식 홈페이지 관리</li>
