@@ -62,7 +62,7 @@
 <details>
 <summary><strong>제45대 인하대학교 총학생회 기획조정실</strong> (2026.01 ~ 2026.04)</summary>
 <ul>
-  <li><strong>직책:</strong> 기획조정실 대외협력 담당관</li>
+  <li><strong>직책:</strong> 대외협력 담당관</li>
   <li>총학생회 공식 홈페이지 관리</li>
   <li>내부 데이터 관리 홈페이지 제작 및 관리</li>
   <li>공개 민원 및 불편 사항 처리</li>
@@ -73,7 +73,7 @@
 <summary><strong>소프트웨어융합대학 새내기배움터 준비위원회</strong> (2026.01 ~ 2026.03)</summary>
 <ul>
   <li><strong>직책:</strong> 기획팀</li>
-  <li>2026학년도 신입생 새내기배움터 기획 참여</li>
+  <li>2026학년도 신입생 새내기배움터 기획</li>
   <li>새내기배움터 홈페이지 및 관리 페이지 제작</li>
 </ul>
 </details>
@@ -83,7 +83,7 @@
 <ul>
   <li><strong>직책:</strong> 대외협력국장</li>
   <li>단과대 제휴 사업 관리</li>
-  <li>소프트웨어융합대학 해커톤 INHA NEXT Campus Challenge 기획 참여</li>
+  <li>소프트웨어융합대학 해커톤 INHA NEXT Campus Challenge 기획</li>
 </ul>
 </details>
 
@@ -108,7 +108,7 @@
 
 ### 🤝 Club & Community
 <details>
-<summary><strong>인공지능학회 SINSA</strong> (2026.01 ~ )</summary>
+<summary><strong>인공지능학회 SINSA</strong> (2026.01 ~ Present)</summary>
 <ul>
   <li><strong>직책:</strong> 기술학술부 운영진</li>
   <li>자동화 시스템 제작</li>
@@ -120,8 +120,8 @@
 <summary><strong>인천 IT벤처 연합 MOONG</strong> (2025.06 ~ 2025.12)</summary>
 <ul>
   <li><strong>직책:</strong> Director</li>
-  <li>커넥톤 보조 업무 참여</li>
-  <li>아이로드 글로벌 해커톤 업무 참여</li>
+  <li>커넥톤 업무 보조</li>
+  <li>아이로드 글로벌 해커톤 업무</li>
 </ul>
 </details>
 
@@ -147,7 +147,6 @@
     <ul>
       <li>MoE(Mixture of Experts) 모델 구조 설계 및 구현</li>
       <li>WSI(Whole Slide Image) 패치 단위 분류 모델 훈련 및 성능 최적화</li>
-      <li>서울대병원 및 성모병원 협력 연구 진행</li>
     </ul>
   </li>
 </ul>
@@ -168,7 +167,7 @@
 <details>
 <summary><strong>[Paper] KCC 2026 (In Preparation)</strong> (2026.03 ~ Present)</summary>
 <ul>
-  <li><strong>Conference:</strong> KCC 2026 (한국정보과학회)</li>
+  <li><strong>Conference:</strong> KCC 2026 (한국컴퓨터종합학술대회)</li>
   <li><strong>Role:</strong> First Author (1저자)</li>
   <li><strong>Description:</strong> Research in progress on designing a mixture-of-experts (MoE) model with a meta-expert head for histopathology image classification</li>
 </ul>
