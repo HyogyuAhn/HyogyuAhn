@@ -174,9 +174,9 @@
 </details>
 
 <details>
-<summary><strong>[Paper] Journal Submission (In Preparation)</strong> (2026.01 ~ Present)</summary>
+<summary><strong>[Paper] Nature: Scientific Reports (In Preparation)</strong> (2026.01 ~ Present)</summary>
 <ul>
-  <li><strong>Journal:</strong> Under review preparation (target journal under consideration)</li>
+  <li><strong>Journal:</strong> Scientific Reports</li>
   <li><strong>Role:</strong> First Author (1저자)</li>
   <li><strong>Description:</strong> Developing a confidence-gated MoE framework with flip-based correction to mitigate false positives (notably TUM) via selective top-1 to top-2 prediction switching in histopathology classification</li>
 </ul>
