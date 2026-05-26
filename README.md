@@ -53,12 +53,13 @@
 
 ### 🏛️ Student Organization
 <details>
-<summary><strong>(예정) 제3대 소프트웨어융합대학 학생회</strong> (2026.04 ~)</summary>
+<summary><strong>제3대 소프트웨어융합대학 학생회</strong> (2026.06 ~)</summary>
 <ul>
   <li><strong>직책:</strong> </li>
 </ul>
 </details>
 
+<!--
 <details>
 <summary><strong>제45대 인하대학교 총학생회 기획조정실</strong> (2026.01 ~ 2026.04)</summary>
 <ul>
@@ -68,6 +69,7 @@
   <li>공개 민원 및 불편 사항 처리</li>
 </ul>
 </details>
+-->
 
 <details>
 <summary><strong>소프트웨어융합대학 새내기배움터 준비위원회</strong> (2026.01 ~ 2026.03)</summary>
@@ -165,7 +167,7 @@
 </details>
 
 <details>
-<summary><strong>[Paper] KCC 2026 (In Preparation)</strong> (2026.03 ~ Present)</summary>
+<summary><strong>[Paper] KCC 2026 (Accept)</strong> (2026.03 ~ 2026.06)</summary>
 <ul>
   <li><strong>Conference:</strong> KCC 2026 (한국컴퓨터종합학술대회)</li>
   <li><strong>Role:</strong> First Author (1저자)</li>
