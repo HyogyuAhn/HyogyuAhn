@@ -167,11 +167,10 @@
 </details>
 
 <details>
-<summary><strong>[Paper] KCC 2026 (Accept)</strong> (2026.03 ~ 2026.06)</summary>
+<summary><strong>[Paper] PatchMoE-GC: 잔차 기반 위암 병리 패치 분류</strong> (2026.03 ~ 2026.06)</summary>
 <ul>
   <li><strong>Conference:</strong> KCC 2026 (한국컴퓨터종합학술대회)</li>
   <li><strong>Role:</strong> First Author (1저자)</li>
-  <li><strong>Description:</strong> Research in progress on designing a mixture-of-experts (MoE) model with a meta-expert head for histopathology image classification</li>
 </ul>
 </details>
 
@@ -180,7 +179,6 @@
 <ul>
   <li><strong>Journal:</strong> Scientific Reports</li>
   <li><strong>Role:</strong> First Author (1저자)</li>
-  <li><strong>Description:</strong> Developing a confidence-gated MoE framework with flip-based correction to mitigate false positives (notably TUM) via selective top-1 to top-2 prediction switching in histopathology classification</li>
 </ul>
 </details>
 
