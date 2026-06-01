@@ -143,14 +143,8 @@
 <summary><strong>인공지능 생명정보 연구실 (BioInCode Lab)</strong> (2025.02 ~ Present)</summary>
 <ul>
   <li><strong>Advisor:</strong> 이상선 교수님</li>
-  <li><strong>Role:</strong> 학부연구생 (병리이미지 팀)</li>
-  <li><strong>Topic:</strong> 병리이미지 분류 모델 제작 및 WSI에서의 Annotation 성능 향상</li>
-  <li><strong>Detail:</strong>
-    <ul>
-      <li>MoE(Mixture of Experts) 모델 구조 설계 및 구현</li>
-      <li>WSI(Whole Slide Image) 패치 단위 분류 모델 훈련 및 성능 최적화</li>
-    </ul>
-  </li>
+  <li><strong>Role:</strong> 학부연구생</li>
+  <li><strong>병리이미지 팀</strong> (2025.07 ~ 2026.05)</li>
 </ul>
 </details>
 
