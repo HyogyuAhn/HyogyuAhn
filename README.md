@@ -55,11 +55,10 @@
 <details>
 <summary><strong>제3대 소프트웨어융합대학 학생회</strong> (2026.06 ~)</summary>
 <ul>
-  <li><strong>직책:</strong> </li>
+  <li><strong>직책:</strong> 복지국장</li>
 </ul>
 </details>
 
-<!--
 <details>
 <summary><strong>제45대 인하대학교 총학생회 기획조정실</strong> (2026.01 ~ 2026.04)</summary>
 <ul>
@@ -69,7 +68,6 @@
   <li>공개 민원 및 불편 사항 처리</li>
 </ul>
 </details>
--->
 
 <details>
 <summary><strong>소프트웨어융합대학 새내기배움터 준비위원회</strong> (2026.01 ~ 2026.03)</summary>
@@ -112,7 +110,7 @@
 <details>
 <summary><strong>인공지능학회 SINSA</strong> (2026.01 ~ Present)</summary>
 <ul>
-  <li><strong>직책:</strong> 기술학술부 운영진</li>
+  <li><strong>직책:</strong> 기술학술부원 (2026.01 ~ 2026.06) / 동아리 부원 (2026.07 ~ Present)</li>
   <li>자동화 시스템 제작</li>
   <li>기록물 관리</li>
 </ul>
@@ -186,6 +184,7 @@
 | **지적재산 경진대회** | 특허냠냠 / 정량 조사, 청구항 분석 | 2024.11 ~ 2024.12 | **대상** 🥇 |
 | **INCOMthon** | Team Nerd / DB | 2024.09 ~ 2024.10 | 아이디어톤 수상 |
 | **Growthon** | Team Nerd / PM | 2024.05 ~ 2024.06 | **최우수상** 🥇 |
+| **2026 디지털 경진대회** | 영크크 / AI | 2026.07 | **33/293** |
 
 <br>
 
