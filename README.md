@@ -71,7 +71,7 @@ Advisor: Prof. 이상선
 
 | Project / Competition | Team · Role | Period | Result |
 | --- | --- | --- | --- |
-| KCC 2026 | 병리이미지팀 · First Author | - | Mar-Jun 2026 | **학부생 우수상** |
+| KCC 2026 | 병리이미지팀 · First Author | Mar-Jun 2026 | **학부생 우수상** |
 | 2026 디지털 경진대회 | 영크크 · AI | Jul 2026 | **33 / 293** |
 | MS NET-ZERO 해커톤 | 인사 · Backend, Database | Jun 2025 | — |
 | 지적재산 경진대회 | 특허냠냠 · Quantitative Research, Claims Analysis | Nov–Dec 2024 | **대상 (Grand Prize)** 🥇 |
