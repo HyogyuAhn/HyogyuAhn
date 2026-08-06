@@ -1,195 +1,115 @@
-# I'm Hyogyu Ahn
+# Hi, I'm Hyogyu Ahn 👋
 
-### 🎓 **Student @ INHA University, Artificial Intelligence**
-*(2024.03 ~ Present)*
+Artificial Intelligence student at **Inha University**  
+Undergraduate Researcher at **BioInCode Lab**
 
-## 🛠️ Stack
+## About Me
 
-### 💻 Languages
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-</div>
+- 🎓 B.S. in Artificial Intelligence, Inha University *(Mar 2024 – Present)*
+- 🔬 Interested in computational pathology, medical AI, and deep learning
+- 💡 Experienced in research, project development, and student organizations
 
-### 🧠 AI & Data Science
-<div align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4299E1?style=for-the-badge&logo=Seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</div>
+## Tech Stack
 
-### 🌐 Web & Backend & Database
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</div>
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-### 🛠️ IDE & Collaboration Tools
-<div align="left">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-</div>
+**AI & Data Science**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-<br>
+**Web & Database**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-## 🚀 Experience
+**Tools**  
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
-### 🏛️ Student Organization
-<details>
-<summary><strong>제3대 소프트웨어융합대학 학생회</strong> (2026.06 ~)</summary>
-<ul>
-  <li><strong>직책:</strong> 복지국장</li>
-</ul>
-</details>
+## Research Experience
 
-<details>
-<summary><strong>제45대 인하대학교 총학생회 기획조정실</strong> (2026.01 ~ 2026.04)</summary>
-<ul>
-  <li><strong>직책:</strong> 대외협력 담당관</li>
-  <li>총학생회 공식 홈페이지 관리</li>
-  <li>내부 데이터 관리 홈페이지 제작 및 관리</li>
-  <li>공개 민원 및 불편 사항 처리</li>
-</ul>
-</details>
+### BioInCode Lab · Undergraduate Researcher
 
-<details>
-<summary><strong>소프트웨어융합대학 새내기배움터 준비위원회</strong> (2026.01 ~ 2026.03)</summary>
-<ul>
-  <li><strong>직책:</strong> 기획팀</li>
-  <li>2026학년도 신입생 새내기배움터 기획</li>
-  <li>새내기배움터 홈페이지 및 관리 페이지 제작</li>
-</ul>
-</details>
+**인공지능 생명정보 연구실, Inha University** · *Feb 2025 – Present*  
+Advisor: Prof. 이상선
 
-<details>
-<summary><strong>제2대 소프트웨어융합대학 학생회 대외협력국</strong> (2025.05 ~ 2025.12)</summary>
-<ul>
-  <li><strong>직책:</strong> 대외협력국장</li>
-  <li>단과대 제휴 사업 관리</li>
-  <li>소프트웨어융합대학 해커톤 INHA NEXT Campus Challenge 기획</li>
-</ul>
-</details>
+- Conducted research as a member of the Computational Pathology Team *(Jul 2025 – May 2026)*
 
-<details>
-<summary><strong>인공지능공학과 학생회 학술부</strong> (2025.01 ~ 2025.05)</summary>
-<ul>
-  <li><strong>직책:</strong> 학술부원</li>
-  <li>논문 스터디</li>
-</ul>
-</details>
+## Publications & Presentations
 
-<details>
-<summary><strong>인공지능공학과 학생회 홍보부</strong> (2024.09 ~ 2024.12)</summary>
-<ul>
-  <li><strong>직책:</strong> 홍보부원</li>
-  <li>학과 카드뉴스 콘텐츠 제작</li>
-  <li>종강총회 및 오리엔테이션 자료 제작</li>
-</ul>
-</details>
+### International
 
-<br>
+- **Manuscript in preparation for _Scientific Reports_**  
+  First Author · *Jan 2026 – Present*
 
-### 🤝 Club & Community
-<details>
-<summary><strong>인공지능학회 SINSA</strong> (2026.01 ~ Present)</summary>
-<ul>
-  <li><strong>직책:</strong> 기술학술부원 (2026.01 ~ 2026.06) / 동아리 부원 (2026.07 ~ Present)</li>
-  <li>자동화 시스템 제작</li>
-  <li>기록물 관리</li>
-</ul>
-</details>
+### Domestic
 
-<details>
-<summary><strong>인천 IT벤처 연합 MOONG</strong> (2025.06 ~ 2025.12)</summary>
-<ul>
-  <li><strong>직책:</strong> Director</li>
-  <li>커넥톤 업무 보조</li>
-  <li>아이로드 글로벌 해커톤 업무</li>
-</ul>
-</details>
+- **PatchMoE-GC: 잔차 기반 위암 병리 패치 분류**  
+  Paper · *Korea Computer Congress 2026 (KCC 2026)* · First Author
 
-<details>
-<summary><strong>인하대학교 학술동아리 INCOM</strong> (2024.03 ~ 2025.12)</summary>
-<ul>
-  <li><strong>직책:</strong> 학술부장 (2025.01 ~ 2025.12) / 동아리 부원 (2024.03 ~ 2025.12)</li>
-  <li>부원 대상 Python 기초 프로그래밍 강의 및 C++ 스터디</li>
-  <li>교내 해커톤 INCOMthon 운영</li>
-</ul>
-</details>
+- **PatchMoE-GC: Improving Gastric Tumour Microenvironment Classification with a Meta-Expert Routing Head**  
+  Poster · *KSBI BIOINFO 2025 (한국생명정보학회)* · First Author
 
-<br>
+## Projects & Awards
 
-## 🔬 Research Experience
-<details>
-<summary><strong>인공지능 생명정보 연구실 (BioInCode Lab)</strong> (2025.02 ~ Present)</summary>
-<ul>
-  <li><strong>Advisor:</strong> 이상선 교수님</li>
-  <li><strong>Role:</strong> 학부연구생</li>
-  <li><strong>병리이미지 팀</strong> (2025.07 ~ 2026.05)</li>
-</ul>
-</details>
+| Project / Competition | Team · Role | Period | Result |
+| --- | --- | --- | --- |
+| KCC 2026 | 병리이미지팀 · First Author | - | Mar-Jun 2026 | **학부생 우수상** |
+| 2026 디지털 경진대회 | 영크크 · AI | Jul 2026 | **33 / 293** |
+| MS NET-ZERO 해커톤 | 인사 · Backend, Database | Jun 2025 | — |
+| 지적재산 경진대회 | 특허냠냠 · Quantitative Research, Claims Analysis | Nov–Dec 2024 | **대상 (Grand Prize)** 🥇 |
+| INCOMthon | Team Nerd · Database | Sep–Oct 2024 | **아이디어톤 수상** |
+| Growthon | Team Nerd · Project Manager | May–Jun 2024 | **최우수상 (Excellence Award)** 🥇 |
 
-<br>
+## Leadership & Activities
 
-## 📝 Publications & Posters
-<details>
-<summary><strong>[Poster] PatchMoE-GC: Improving Gastric Tumour Microenvironment Classification with a Meta-Expert Routing Head</strong> (2025.10.16)</summary>
-<ul>
-  <li><strong>Conference:</strong> KSBI BIOINFO 2025 (한국생명정보학회)</li>
-  <li><strong>Role:</strong> First Author (1저자)</li>
-  <li><strong>Description:</strong> 위암 병리 이미지의 효율적인 분류를 위해 Head의 변경만으로도 성능을 향상하는 전문가 혼합(MoE) 모델 및 보조 Head Meta-Expert 제안</li>
-</ul>
-</details>
+### Student Organizations
 
-<details>
-<summary><strong>[Paper] PatchMoE-GC: 잔차 기반 위암 병리 패치 분류</strong> (2026.03 ~ 2026.06)</summary>
-<ul>
-  <li><strong>Conference:</strong> KCC 2026 (한국컴퓨터종합학술대회)</li>
-  <li><strong>Role:</strong> First Author (1저자)</li>
-</ul>
-</details>
+- **제3대 소프트웨어융합대학 학생회** · 복지국장 *(Jun 2026 – Present)*
+- **제45대 인하대학교 총학생회 기획조정실** · 대외협력 담당관 *(Jan–Apr 2026)*
+  - Managed the official student council website and an internal data management website
+  - Handled public inquiries and student concerns
+- **소프트웨어융합대학 새내기배움터 준비위원회** · 기획팀 *(Jan–Mar 2026)*
+  - Planned the 2026 freshman orientation program
+  - Developed the event website and administration page
+- **제2대 소프트웨어융합대학 학생회 대외협력국** · 대외협력국장 *(May–Dec 2025)*
+  - Managed college partnership programs
+  - Planned the INHA NEXT Campus Challenge hackathon
+- **인공지능공학과 학생회 학술부** · 학술부원 *(Jan–May 2025)*
+  - Participated in a research paper study group
+- **인공지능공학과 학생회 홍보부** · 홍보부원 *(Sep–Dec 2024)*
+  - Created departmental social media content and event materials
 
-<details>
-<summary><strong>[Paper] Nature: Scientific Reports (In Preparation)</strong> (2026.01 ~ Present)</summary>
-<ul>
-  <li><strong>Journal:</strong> Scientific Reports</li>
-  <li><strong>Role:</strong> First Author (1저자)</li>
-</ul>
-</details>
+### Clubs & Communities
 
-<br>
+- **인공지능학회 SINSA** · 기술학술부원 → 기술학술부장 *(Jan 2026 – Present)*
+  - Developed automation systems and managed organizational records
+- **인천 IT벤처 연합 MOONG** · Director *(Jun–Dec 2025)*
+  - 커넥톤 운영 지원 및 아이로드 글로벌 해커톤 업무 수행
+- **인하대학교 학술동아리 INCOM** · 학술부장 / Member *(Mar 2024 – Dec 2025)*
+  - Taught introductory Python and led a C++ study group
+  - Organized the on-campus INCOMthon hackathon
 
-## 🏆 Projects & Awards
+## Certifications
 
-| 프로젝트명 | 팀 / 역할 | 기간 | 성과/비고 |
-|:---:|:---:|:---:|:---:|
-| **MS NET-ZERO 해커톤** | 인사 / BE, DB | 2025.06 | - |
-| **지적재산 경진대회** | 특허냠냠 / 정량 조사, 청구항 분석 | 2024.11 ~ 2024.12 | **대상** 🥇 |
-| **INCOMthon** | Team Nerd / DB | 2024.09 ~ 2024.10 | 아이디어톤 수상 |
-| **Growthon** | Team Nerd / PM | 2024.05 ~ 2024.06 | **최우수상** 🥇 |
-| **2026 디지털 경진대회** | 영크크 / AI | 2026.07 | **33/293** |
-
-<br>
-
-## 📜 Certificates
-| 자격증 | 취득일 | 발급기관 |
-|:---:|:---:|:---:|
-| **SQL Developer** | 2024.09.20 | 한국데이터산업진흥원 |
-| **정보처리산업기사** | ongoing | - |
+| Certification | Issuer | Date / Status |
+| --- | --- | --- |
+| SQL Developer (SQLD) | 한국데이터산업진흥원 | Sep 20, 2024 |
+| 정보처리산업기사 | — | In progress |
