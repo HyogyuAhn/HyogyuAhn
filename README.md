@@ -1,115 +1,95 @@
-# Hi, I'm Hyogyu Ahn 👋
+# Hyogyu Ahn
 
-Artificial Intelligence student at **Inha University**  
-Undergraduate Researcher at **BioInCode Lab**
+I study Artificial Intelligence at **Inha University** and conduct research at **BioInCode Lab**. My research interests include computational pathology and medical AI, with a focus on classifying tissue types in gastric cancer pathology images.
 
-## About Me
+**Featured work** · [PatchMoE-GC](#publications-and-presentations) · First author · KCC 2026 Undergraduate Excellence Award
 
-- 🎓 B.S. in Artificial Intelligence, Inha University *(Mar 2024 – Present)*
-- 🔬 Interested in computational pathology, medical AI, and deep learning
-- 💡 Experienced in research, project development, and student organizations
+## Research
 
-## Tech Stack
+**BioInCode Lab, Inha University**  
+Undergraduate Researcher · Feb 2025 – Present
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+- **Jul 2025 – May 2026 · Gastric cancer tissue classification**  
+  As a member of the Computational Pathology Team, I worked on PatchMoE-GC to classify tissue types in gastric cancer histopathology patches.
 
-**AI & Data Science**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+- **May 2026 – Present · Multi-layer and model fusion for gastric pathology**  
+  Building on PatchMoE-GC, I studied how to combine predictions from different layers of UNI, a pathology foundation model. I also evaluated whether averaging predictions from a frozen UNI model and a partially fine-tuned one improved tissue classification across six splits of the same dataset.
 
-**Web & Database**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+### Planned Research
 
-**Tools**  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+- **Starting Jan 2027 · Layer selection and adaptive routing in computational pathology**  
 
-## Research Experience
+- **Starting Jul 2027 · World models for omics data**  
 
-### BioInCode Lab · Undergraduate Researcher
+### Publications and Presentations
 
-**인공지능 생명정보 연구실, Inha University** · *Feb 2025 – Present*  
-Advisor: Prof. 이상선
-
-- Conducted research as a member of the Computational Pathology Team *(Jul 2025 – May 2026)*
-
-## Publications & Presentations
-
-### International
-
-- **Manuscript in preparation for _Scientific Reports_**  
-  First Author · *Jan 2026 – Present*
-
-### Domestic
-
-- **PatchMoE-GC: 잔차 기반 위암 병리 패치 분류**  
-  Paper · *Korea Computer Congress 2026 (KCC 2026)* · First Author
+- **PatchMoE-GC: Residual-Based Classification of Gastric Cancer Pathology Patches**  
+  Original title: *PatchMoE-GC: 잔차 기반 위암 병리 패치 분류*  
+  Korea Computer Congress (KCC 2026) · Conference paper · First author
 
 - **PatchMoE-GC: Improving Gastric Tumour Microenvironment Classification with a Meta-Expert Routing Head**  
-  Poster · *KSBI BIOINFO 2025 (한국생명정보학회)* · First Author
+  KSBi BIOINFO 2025 · Poster · First author
 
-## Projects & Awards
+### Manuscripts in Preparation
 
-| Project / Competition | Team · Role | Period | Result |
-| --- | --- | --- | --- |
-| KCC 2026 | 병리이미지팀 · First Author | Mar-Jun 2026 | **학부생 우수상** |
-| 2026 디지털 경진대회 | 영크크 · AI | Jul 2026 | **33 / 269 (Top 12%)** |
-| MS NET-ZERO 해커톤 | 인사 · Backend, Database | Jun 2025 | — |
-| 지적재산 경진대회 | 특허냠냠 · Quantitative Research, Claims Analysis | Nov–Dec 2024 | **대상 (Grand Prize)** 🥇 |
-| INCOMthon | Team Nerd · Database | Sep–Oct 2024 | **아이디어톤 수상** |
-| Growthon | Team Nerd · Project Manager | May–Jun 2024 | **최우수상 (Excellence Award)** 🥇 |
+- First-author manuscript in preparation for submission to MICCAI
+- First-author manuscript in preparation for submission to a Korean journal
 
-## Leadership & Activities
+## Selected Projects
 
-### Student Organizations
+| Project | Contribution |
+| --- | --- |
+| **2026 Digital Competition** (디지털 경진대회) | Worked on AI development for team 영크크. Placed 33rd out of 269 teams. |
+| **2026 Freshman Orientation, College of Software Convergence** | Built the event website and admin page and helped plan the orientation program. |
+| **MS NET-ZERO Hackathon** | Worked on backend development and the database for team 인사. |
 
-- **제3대 소프트웨어융합대학 학생회** · 복지국장 *(Jun 2026 – Present)*
-- **제45대 인하대학교 총학생회 기획조정실** · 대외협력 담당관 *(Jan–Apr 2026)*
-  - Managed the official student council website and an internal data management website
-  - Handled public inquiries and student concerns
-- **소프트웨어융합대학 새내기배움터 준비위원회** · 기획팀 *(Jan–Mar 2026)*
-  - Planned the 2026 freshman orientation program
-  - Developed the event website and administration page
-- **제2대 소프트웨어융합대학 학생회 대외협력국** · 대외협력국장 *(May–Dec 2025)*
-  - Managed college partnership programs
-  - Planned the INHA NEXT Campus Challenge hackathon
-- **인공지능공학과 학생회 학술부** · 학술부원 *(Jan–May 2025)*
-  - Participated in a research paper study group
-- **인공지능공학과 학생회 홍보부** · 홍보부원 *(Sep–Dec 2024)*
-  - Created departmental social media content and event materials
+## Awards
 
-### Clubs & Communities
+### Paper Awards
 
-- **인공지능학회 SINSA** · 기술학술부원 → 기술학술부장 *(Jan 2026 – Present)*
-  - Developed automation systems and managed organizational records
-- **인천 IT벤처 연합 MOONG** · Director *(Jun–Dec 2025)*
-  - 커넥톤 운영 지원 및 아이로드 글로벌 해커톤 업무 수행
-- **인하대학교 학술동아리 INCOM** · 학술부장 / Member *(Mar 2024 – Dec 2025)*
-  - Taught introductory Python and led a C++ study group
-  - Organized the on-campus INCOMthon hackathon
+- **Undergraduate Excellence Award (학부생 우수상)** · Korea Computer Congress, 2026  
+  First author of *PatchMoE-GC: 잔차 기반 위암 병리 패치 분류*
 
-## Certifications
+### Competition Awards
 
-| Certification | Issuer | Date / Status |
-| --- | --- | --- |
-| SQL Developer (SQLD) | 한국데이터산업진흥원 | Sep 20, 2024 |
-| 정보처리산업기사 | — | In progress |
+- **Grand Prize (대상)** · Intellectual Property Competition (지적재산 경진대회), 2024  
+  Conducted quantitative research and analyzed patent claims for team 특허냠냠.
+- **Ideathon Award (아이디어톤 수상)** · INCOMthon, 2024  
+  Worked on the database for Team Nerd.
+- **Excellence Award (최우수상)** · Growthon, 2024  
+  Led Team Nerd as project manager.
+
+## Leadership and Activities
+
+- **SINSA · Artificial Intelligence Society** — Technical and Academic Affairs · Jan 2026 – Present  
+  Joined as a member and later became department head. Built tools to automate society operations and maintained organizational records.
+- **College of Software Convergence Student Council** — Head of Student Welfare · Jun 2026 – Present
+
+<details>
+<summary>Earlier leadership and activities</summary>
+
+- **Inha University Student Council** — External Relations Officer · Jan – Apr 2026  
+  Maintained the council website and its internal data management site, and responded to student inquiries.
+- **College of Software Convergence Freshman Orientation Committee** — Planning Team · Jan – Mar 2026  
+  Planned orientation activities and developed the event website and admin page.
+- **College of Software Convergence Student Council** — Head of External Relations · May – Dec 2025  
+  Managed college partnerships and helped plan the INHA NEXT Campus Challenge hackathon.
+- **MOONG · Incheon IT Venture Network** — Director · Jun – Dec 2025  
+  Supported Connecthon operations and contributed to the iROAD Global Hackathon.
+- **INCOM · Inha University Academic Club** — Member and Academic Affairs Lead · Mar 2024 – Dec 2025  
+  Taught introductory Python, led a C++ study group, and helped organize INCOMthon.
+- **Department of Artificial Intelligence Student Council** — Academic Affairs · Jan – May 2025  
+  Participated in a research paper reading group.
+- **Department of Artificial Intelligence Student Council** — Public Relations · Sep – Dec 2024  
+  Created social media content and promotional materials for departmental events.
+
+</details>
+
+<details>
+<summary>Education and certifications</summary>
+
+- **B.S. in Artificial Intelligence**, Inha University · Mar 2024 – Present
+- **SQL Developer (SQLD)**, Korea Data Agency · Sep 2024
+- **Industrial Engineer Information Processing (정보처리산업기사)** · Exam preparation in progress
+
+</details>
