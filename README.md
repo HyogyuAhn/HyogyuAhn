@@ -32,7 +32,6 @@ Undergraduate Researcher · Feb 2025 – Present
 
 ### Manuscripts in Preparation
 
-- First-author manuscript in preparation for submission to MICCAI
 - First-author manuscript in preparation for submission to a Korean journal
 
 ## Selected Projects
